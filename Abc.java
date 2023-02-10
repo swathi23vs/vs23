@@ -1,4 +1,4 @@
-class Abc
+class Def
 {
 static void add()
 {
